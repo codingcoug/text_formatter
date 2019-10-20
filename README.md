@@ -5,4 +5,4 @@ This is intented to be a text formatter for the Central Access Reader.
 
 Thoughts for improvements
 * add add a double newline character about every 10-20 lines. This is so that modifying reading speed in CAR can be achieved
-*# otherwise the program will never have an opportunity to process the change in settings
+** otherwise the program will never have an opportunity to process the change in settings
