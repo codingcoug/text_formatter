@@ -1,0 +1,1148 @@
+Customizing the product
+development process
+Ultimately, every product development
+team needs a specific, often custom,
+product development process that is
+catered to the needs of the client and skills
+of the team. Unfortunately, we cannot tell
+you in this book what specific product
+development process is needed for your
+specific project. This is simply because
+every project is unique and requires its own
+product development process and its own
+project plan.
+We can, however, show you how to create,
+evaluate, and manage your own custom
+product development process and project
+plan. This chapter focuses on this.
+To be clear, we’ll define the custom product
+development process as the set of specific
+activities that need to be taken to achieve a
+specific set of design outcomes. Further we
+define the custom project plan as the
+custom product development process with
+resources (human, financial, and temporal)
+added to activities.
+Every project should have at least some
+plan — even if that plan is not very
+detailed. Whatever level of detail is chosen
+for the project plan, the following sections
+will guide the team or team leader in
+establishing a good plan that is likely to
+lead to success.
+During development, plans evolve. It is
+unrealistic to believe that a plan will first be
+set, then followed without adjustment.
+Interestingly, having an initial plan in place
+when unexpected problems or delays occur
+allows the team to know how the plan can
+change with minimal impact on the highest
+level project objectives.
+8.1 Creating a customized
+project plan
+A customized project plan is (i) specific to
+the project at hand, (ii) aligned with the
+capabilities of the development team, and
+(iii) established according to the client’s
+budgetary and time constraints.
+The customized plan includes an activity
+map (set of design activities, outcomes,
+and their relationships) that will transition a
+design from its initial state of evolution to
+the client-specified final state of evolution.
+Ultimately, as the plan evolves over time,
+each of these activities and outcomes will
+be defined to such a degree that they can
+be assigned to an individual or sub team to
+complete. The activities will be defined with
+sufficient clarity that the assignee can
+complete it according to the budget and
+schedule for that specific activity.
+141
+142 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+The following steps can be used to create a
+customized product development process
+(steps 1–3) and transition that process into
+a custom plan (steps 4–6). Each one of the
+steps is described in more detail in the
+subsequent subsections.
+Process for customizing the project plan:
+1. Establish the project scope
+2. Articulate specific end-of-stage
+outcomes
+3. Identify specific intermediate design
+outcomes
+4. Choose design activities that lead to
+the outcomes
+5. Allocate resources to each design
+activity
+6. Add time estimates and extract the
+project schedule
+Step 1: Establish the project scope
+As a first step, the project scope should be
+established and stated succinctly and
+accurately. This must be done early in the
+project. The scope will not only guide the
+development of the customized project
+plan, and it will also guide the product
+development team throughout the entire
+project. The project scope can be captured
+in a project objective statement, which is a
+short statement about a project’s top-level
+scope, schedule, and resources. A
+description of this and a method for
+creating one is found in the Development
+Reference, under Project Objective
+Statement.
+An important part of this step is to bracket
+the development, which means to
+determine which portion of the product’s
+evolution your team will be working on. This
+is done by (i) understanding the current
+state of the design, and (ii) understanding
+the required final state of the design. The
+current state and the required final state of
+the design exist somewhere on the
+evolutionary continuum defined by the
+stages of product development. Figure 8.1
+illustrates this for the human powered drill.
+Step 2: Articulate specific end-of-stage
+outcomes
+Implied in bracketing the development is
+the completion of intermediate stages of
+development, each of which has a generic
+purpose associated with high-level design
+outcomes. For manufactured products that
+are expected to evolve through the six
+stages of development, Tables 4.1, 5.1,
+6.1, 7.1, 7.4, and 7.5 provide the generic
+high-level purpose.
+For each of the stages of development in
+the team’s scope, the team should
+articulate the specific requirements that will
+be needed for approval, the specific tests
+that should be carried out, and the required
+state of the design at the time of approval.
+Articulating these items clarifies the specific
+design outcomes that should appear in the
+activity map for this specific project. This
+part of the customization process caters to
+the detailed and specific needs of the
+particular product being designed.
+For teams working on products they’re
+familiar with — such as the team that
+annually develops a new mobile phone — it
+will be relatively easy to articulate specific
+end-of-stage outcomes. This is because of
+their familiarity with the unique design
+patterns that exist for mobile phone
+development, and because they’re likely to
+have a general idea for what the product
+will become, well before it is developed.
+On the other hand, for teams working on
+products they’re unfamiliar with, or on
+products that have never existed before, it
+may not be possible to be highly specific at
+the onset of the product development
+process. This is because there is still so
+much that is unknown about what the
+product will become that it’s simply not
+possible to be specific. In such cases, it’s
+acceptable for the team to start with
+generic end-of-stage outcomes, then
+update them when specific information
+becomes available.
+When establishing the needed approvals, it
+is useful to evaluate the risks of failing to
+successfully meet the end-of-stage
+outcomes (such as failing to select a
+product architecture that can be
+8.1. CREATING A CUSTOMIZED PROJECT PLAN 143
+CONCEPT
+DEVELOPMENT
+SUBSYSTEM
+ENGINEERING
+SYSTEM
+REFINEMENT
+OPPORTUNITY
+DEVELOPMENT
+PRODUCIBILITY
+REFINEMENT
+POST-RELEASE
+REFINEMENT
+Scope of Development for
+Human Powered Drill
+Figure 8.1: Scoped Development
+for Human Powered
+Water Well Drill
+manufactured using the production
+resources of the client or its suppliers). For
+each of the risks, the team should establish
+an approval that will lessen or eliminate the
+risk (such as early stage manufacturing
+process approval).
+Step 3: Identify specific intermediate
+design outcomes
+The high-level information emerging from
+Steps 1 and 2 are useful for uniting the
+team, but it provides only minimal direction
+on how to proceed through the project.
+Step 3 solves this by establishing
+intermediate design outcomes (or subgoals)
+that if met would result in accomplishing
+the specific end-of-stage outcomes. To do
+this, the team breaks down each high-level
+outcome into smaller more manageable
+lower-level outcomes. Decomposition is a
+design tool that can help the team through
+this step; it is described in the Development
+Reference under Decomposition. In the
+context of project goals, the team will use
+decomposition to ask what lower level
+things need to be accomplished in order to
+meet the higher level goals?
+Step 4: Choose design activities that lead
+to the outcomes
+For each of the design outcomes resulting
+from Step 3, the development team
+chooses one or more design activities that
+alone or together are likely to result in the
+outcome. Many different activities or sets of
+activities can potentially result in a desirable
+outcome, so the selected activities are not
+unique. These activities, together with the
+design outcomes resulting from Step 2, can
+be arranged into an activity map that
+captures their dependency relationships.
+For the most part, this portion of the
+customization process caters to the specific
+skills and preferences of the development
+team. Part II of this book (the Development
+Reference) provides a collection of
+potentially useful design activities.
+Step 5: Allocate resources to each design
+activity
+For each of the selected design activities,
+the team allocates human and financial
+resources to execute the activity. One or
+more members of the product development
+team or its contractors is assigned the
+responsibility of carrying out the activity
+and accomplishing the outcome. Also, a
+portion of the overall project budget is
+thoughtfully allocated to the activity.
+In the context of an activity map, these
+resources can be specified in a variety of
+ways. For simplicity, we have placed a
+name, and dollar amount next to each
+arrow in the activity map. For example,
+Figure 8.2 shows an activity map for one
+high-level activity for a consumer
+electronics project.
+Step 6: Add time estimates and extract
+the project schedule
+A realistic estimate of the time it will take to
+complete each activity is made according
+to the human and financial resources
+allocated to it. Any unit of time can be
+allocated, but it is important that the same
+unit of time is used consistently. Generally,
+days and weeks work well for small-scale
+projects, and months or quarters work well
+for large-scale projects. Once estimates are
+made for each activity, the critical path can
+be found and the project schedule can be
+established. A method for determining the
+critical path is found in the Development
+Reference under Critical Path Analysis.
+* * * * *
+144 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+OPPO
+DEVELOPMENT
+ARCHITECTURE
+DEVELOPMENT
+SUBSYSTEM
+ENGINEERING
+SYSTEM
+REFINEMENT
+PRODUCIBILITY
+REFINEMENT
+POST RELEASE
+REFINEMENT
+G
+F
+C
+D
+E
+4
+2
+3
+1
+1
+1
+1
+1
+n
+7
+9
+5
+5
+5
+4
+4
+4
+2
+2 2
+2
+3
+3
+3
+3
+6
+6
+6
+6
+C
+C
+C
+C
+A
+A
+A
+A
+B
+B
+B
+B
+B
+D
+D
+D
+E
+F
+G
+8
+H
+F
+n-1
+k
+k-1 k-2
+n-2
+D
+E
+F
+2
+3
+4
+5
+7
+C
+E
+F
+T: 6 Wks
+$: 3,400
+P: Carl S.
+T: 4 Wks
+$: 2,000
+P: Nichole C.
+B3
+B4
+B5
+T: 4 Wks
+$: 2,000
+P: Elena C.
+T: 4 Wks
+$: 3,400
+P: Derrick
+T: 5 Wks
+$: 3,600
+P: Daniel
+T: 4 Wks
+$: 4,000
+P: William G.
+T: 24 Wks
+$: 12,000
+P: Chris M.
+T: 2 Wks
+$: 4,500
+P: Enan G.
+T: 4 Wks
+$: 3,700
+P: Brian S.
+T: 6 Wks
+$: 12,000
+P: Helaman
+T: 7 Wks
+$: 3,000
+P: Jason
+T: 2 Wks
+$: 2,000
+P: Alex C.
+T: 5 Wks
+$: 3,900
+P: James J.
+T: 6 Wks
+$: 7,600
+P: Carl S.
+B8 B11
+B10
+B12 B13
+B14
+B9
+B6
+2
+1
+B1 Snap Fit Requirements
+B2 Snap Fit Model
+B3 Plastics Design
+B4 Mold Design
+B5 Prototype Plastics
+B6 Circuit Requirements
+B7 FCC Compliance Test Methods
+B8 Schematic Design
+B9 SPICE Circuit Simulation
+B10 Breadboard Design
+B11 Breadboard Performance Test
+B12 Circuit Board Design
+B13 Prototype Circuit
+B14 Circuit Performance Test
+B7
+B1
+B2
+Figure 8.2: Activity map with financial, human, and temporal resources added to each activity
+8.2. EVALUATING THE QUALITY OF THE PROJECT PLAN 145
+For the most part, Steps 4–6 can be
+performed in any order. This means that
+after the specific intermediate design
+outcomes are identified (Step 3), the team
+could begin by allocating a portion of the
+overall resources and schedule to
+accomplishing the outcome. Within this
+limitation of allocated resources and
+schedule, the team can then choose
+activities and human resources that would
+be suitable.
+Refinements and adjustments to the plan
+If needed, the team can continue to
+decompose each subgoal into lower level
+subgoals and repeat the Steps 2 through 6
+where each subgoal is the subject of
+decomposition. It is important to decide
+how detailed to make the project plan. The
+plan should be (i) detailed enough to guide
+the product to the desired state of evolution
+with minimal waste, yet (ii) not so detailed
+that it removes the assigned individual’s
+freedom to operate in the most efficient
+and effective way. The next section offers
+some suggestions that may help in
+deciding how much detail is needed.
+Creating a customized project plan is an
+iterative process – meaning it is very
+unlikely that the first plan created will
+match the needs and constraints of the
+project. Planning can be effectively
+performed in a design iteration cycle
+(Section 2.2). The created plan needs to be
+evaluated and adjusted until it appropriately
+matches the needs and constraints. To
+adjust the plan, any one or more of the
+steps above are reconsidered and the
+impact of an adjustment carried throughout
+subsequent steps. The next section, on
+plan evaluation, offers some suggestions
+that help decide what adjustments might
+be needed. Generally, the team should be
+confident in higher level plans before
+creating more detailed plans.
+Once established and in use, the project
+plan should be updated as necessary. We
+note that this will likely be frequently. By
+definition, because the plan is a detailed
+activity map, a change in one part of the
+map can affect another part. To avoid
+unanticipated problems, consider how
+subsequent dependent and interdependent
+activities are affected by any proposed map
+change before making the update.
+8.2 Evaluating the quality of the
+project plan
+To evaluate the quality of a custom
+development plan, we recommend that
+each of the following questions be
+deliberately asked and thoughtfully
+answered about the project plan.
+Does it have an appropriate level of detail?
+This is a difficult — yet critical — question
+to answer. For more experienced product
+development teams, it is likely that fairly
+high level plans are sufficient for the team
+to proceed. For less experienced teams,
+more detail will be needed simply because
+team members lack the experience to
+intuitively know what set of activities
+effectively lead to accomplishing the
+desired outcomes. The plan should contain
+just enough detail to result in efficient team
+work relatively free from wasted work due
+to misunderstanding the scope of the
+desired outcomes, the available resources,
+or the time constraints.
+Does it have realistic times allocated?
+It can be very difficult to estimate the time it
+will take to carry out an activity —
+especially interdependent activities.
+Generally activities take two to three times
+longer than most people estimate them to
+take. This can be very difficult for designers
+to deal with as there is always pressure to
+complete activities quicker than is
+estimated. When deadlines are fixed, the
+resources (human or financial) allocated to
+an activity, the scope of the activity, or both
+need to be adjusted (see Project Objective
+Statement in the Development Reference).
+Does it have realistic costs allocated?
+Like time estimates, cost estimates are also
+difficult to establish. For many product
+development activities, these costs have to
+do with things such as: material costs for
+146 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+prototypes, computing time with super
+computers, test lab fees, payments made
+to interviewees or focus groups and so on.
+In each of these cases, estimates can be
+made using experience, or speaking about
+the estimates with suppliers involved.
+These costs generally don’t include the cost
+of human resources, but there would be
+nothing wrong with including it if desired.
+Does it have appropriate approvals to
+minimize risk?
+Thinking about what might not go well
+during the process of evolving the product
+from its initial state of evolution to the final
+desired state is a valuable activity. The
+custom plan will be most successful when
+it is focused on creating approved designs
+as opposed to just any design. To that end,
+establishing the appropriate approvals is
+essential. For any industry there is
+generally a set of required approvals or
+standards that must be met, such as the
+UL 94 flame retardancy standard that
+exists for most consumer electronics. Be
+sure to understand the required approvals
+and standards that must be met for your
+specific project. These are sometimes
+unspoken because they are so commonly
+understood and therefore assumed.
+Does it capitalize on the strengths of the
+people assigned?
+Remember that there are often various
+ways to accomplish the intermediate
+outcomes of a project. The plan should
+reflect activities the team is good at, or
+enjoys doing. If the plan requires an
+outcome the team is not capable of
+achieving alone, the plan should be
+coordinated with entities outside of the
+team such as a supplier. Also, within the
+team, the activities should be distributed
+such that the burden is appropriately
+shared and that individuals and teams are
+asked to carry out activities that align with
+their skills and interests.
+Is it useful?
+The most important part of evaluating any
+plan is to ask if the plan is useful in helping
+the team know what needs to be done, by
+what time, and with what resources. One
+indication of this is if the team uses and
+updates the plan regularly. Generally the
+creation of the plan will be largely driven by
+one individual on the team, such as the
+team leader. It’s our belief that if the one
+creating the plan is thoughtful about its
+creation and diligent in updating and
+emphasizing of the plan, the plan will
+indeed be of great use to the team.
+8.3 Using the customized
+project plan
+The custom project plan represents what
+the product development team will do to
+advance the design through the stages of
+development, but it does not represent how
+they will do it. For example, imagine two
+product development teams with identical
+project plans for evolving two products for
+the same market. How the team progresses
+through the map — with what level of care
+and with how much enthusiasm — has a
+large impact on the cost and quality of the
+product development effort.
+In order to ensure that the resulting
+product is both desirable and transferable,
+the project should be both well planned
+and well managed.
+In this section, we describe project
+planning and management as the two
+halves to the common maxim “Plan your
+work, then work your plan.” The first half is
+accomplished through project planning;
+the second, through project management.
+Without project planning, the approach for
+transitioning the design through the stages
+of development is not clearly defined. This
+makes it difficult, if not impossible, for all
+team members to pull together to
+accomplish the project goals. Without
+project management, there is no guarantee
+that the team activities will be coordinated
+to achieve the plan. Instead, the project
+may end up at an entirely different place or
+take significantly longer than planned for.
+We now discuss both Project Planning and
+Project Management in more detail.
+8.3. USING THE CUSTOMIZED PROJECT PLAN 147
+Project planning
+The goal of project planning is to
+completely define the whole activity map in
+the context of the product and project
+needs, development resources, and
+schedule implications of the project. This
+typically includes defining the following:
+• Scope
+– Starting state
+– Ending state
+– Breadth of development project
+• Schedule
+– Calendar time available to
+complete the project
+– Milestones between the start and
+end
+• Resources
+– Available money
+– Available equipment, tools,
+software, etc.
+– Available people
+– Stakeholders
+– Team members
+– Approvers
+• Tradeoff criteria
+– Some understanding of what will
+most likely be adjusted in the
+event of unforeseen difficulties.
+Do we adjust the ending state of
+the project (scope), the amount
+of resources allocated
+(resources), or the amount of
+calendar time
+allocated(schedule)?
+The top-level project plan should be
+approved by the client. Once it is approved,
+the team can move ahead more confidently,
+knowing the client has some ownership in
+the plan. Any changes to the plan should
+be openly discussed and validated by the
+client. The project plan will generally
+include a project contract and schedule.
+Project management
+The goal of project management is to
+ensure that the project plan is followed, or
+that any necessary deviations from the plan
+are carefully and thoughtfully executed. A
+secondary goal of project management is to
+be able to give an accurate status update at
+any time. Status should include project
+state, resources used and remaining, and
+time state (ahead of schedule, on
+schedule, or behind schedule).
+In general, there is no formal test or
+validation of project management. On a
+regular basis however, the current
+performance of the team should be
+compared with the planned performance.
+In many cases, there is no formal
+deliverable associated with project
+management. But an accounting of the
+project status should be tracked by the
+team for self-evaluation, and reported to
+the client on a regular basis.
+Useful tools for project planning and
+management
+Gantt charts, activity maps, critical path
+identification, PERT charts, work
+breakdown structure, project planning
+software.
+Things to watch out for
+Avoiding planning
+At the beginning of the project, it feels
+like not enough is known to produce a
+good plan. It can be tempting to wait
+until more is known. This can lead to a
+state of perpetual working, but with no
+plan. It is far better to begin with a
+tentative plan and then refine it as
+more information is obtained.
+Perpetual planning
+It is possible to get so involved in the
+planning process that the team never
+moves to a whole-hearted execution of
+it. It is vital to move to execution at the
+appropriate time. Deciding the
+appropriate time is a matter of
+judgment.
+148 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+Ignoring the plan
+For some teams, the plan can
+unfortunately be viewed as a hurdle to
+get over, or a hoop to jump through. In
+this case, once the plan is created, the
+team (sometimes unconsciously)
+moves ahead as if they had never
+made the plan!
+Making the planning documents the goal
+The objective of the project is to
+change the state of the design. The
+plan is a means to this end. In error,
+the team can make project
+management the goal, instead of the
+means to the end.
+Pretend plans and statuses
+Unfortunately, some will feel the
+pressure to tell the stakeholders what
+they want to hear, instead of sharing
+reality with them. To be effective, the
+plan and the status of its execution
+must reflect the reality of the project.
+We believe that one of the greatest
+variables at our disposal in developing a
+product is the product development
+process itself. To that end, we have
+presented a 6-step method for creating a
+customized product development process
+and have shown how it can be more fully
+detailed into a unique project plan.
+8.4 Human powered drill
+example
+Let us now examine how the customization
+process unfolded — at the onset of the
+product development process — for the
+human powered drill. We note that as
+development continued for this project, the
+plan presented here became more and
+more detailed as more and more became
+known about the selected architecture and
+the unique subsystem engineering
+challenges.
+Step 1 (example): Establish the project
+scope for the human powered drill
+Through thoughtful discussion with the
+client, the team gathered essential scope
+information, which they crafted into the
+following project objective statement:
+Design, build, and test a human-powered
+drill that reaches underground potable
+water at depths of 250 ft in all soil types by
+March 25, 2011 with a prototyping budget
+of $2,800 USD and for less than 1,700
+man hours of development.
+Because the team needed to produce a
+complete system for field testing, and
+recognizing that some work had already
+been done, the team bracketed the
+development to be from the middle of
+opportunity development to the end of the
+system refinement stage of product
+development. The scope of development
+for the drill is illustrated in Figure 8.1 and a
+set of high level development milestones is
+provided in Table 8.1.
+Step 2 (example): Articulate specific
+end-of-stage outcomes for the human
+powered drill
+From Step 1, the team knew that it would
+transition the design through the first four
+stages of development. Using Tables 4.1,
+5.1, 6.1, 7.1, the team articulated — as
+specifically as it could given the novelty of
+the product — the specific end-of-stage
+outcomes for the human powered drill.
+Table 8.2 shows the team’s result for
+Step 2.
+Step 3 (example): Identify specific
+intermediate design outcomes for the
+human powered drill
+As the project started, the team identified a
+few intermediate design outcomes that
+would help it achieve the end-of-stage
+outcomes. Later, as more become known
+about the drill, additional specific
+intermediate design outcomes were
+identified and added to the plan.
+For the opportunity development stage, to
+be able to acquire a deep understanding of
+the product expectations, the team
+identified a few specific outcomes to
+pursue: (i) understanding WHOlives.org’s
+8.4. HUMAN POWERED DRILL EXAMPLE 149
+Development Milestone Target Date
+Opportunity development stage complete 30 Sep 2010
+Concept development stage complete 30 Nov 2010
+Subsystem engineering stage complete 31 Jan 2011
+System refinement stage complete 25 Mar 2011
+Final, pre Tanzania, design review 15 Apr 2011
+Field testing in Tanzania 15 May 2011
+Table 8.1: Development
+milestones for the humanpowered
+water well drill
+project.
+wishes for the project, (ii) a summary of
+information gained from well driller
+interviews, (iii) a summary of information
+gained from internet research, and (iv) a
+summary of information gained from
+benchmarking other competitive drills.
+For the concept development stage, the
+team decided that they needed an
+understanding of operator fatigue (outcome
+2 in the concept development stage of
+Figure 8.3), labor ergonomics (outcome 3),
+rate of cuttings removal (4), chip settling in
+a slurry pond (5), pump pressure (6),
+mechanical advantage (7), and
+manufacturing cost (8). Low-cost
+evaluations of many prototypes were
+chosen to achieve outcomes 2 through 5.
+Low-cost analytical models were chosen to
+achieve outcomes 6 and 7, and simple
+cost-estimating models were chosen to
+achieve outcome 8.
+For the subsystem engineering stage, the
+team chose to have each subsystem tested
+thoroughly and under harsh conditions —
+even though the team did not know what
+those subsystems would be when they
+identified this intermediate outcome. The
+team hoped that it could use the results
+from each test as a way to identify
+problems and push to correct them before
+the next drilling test. The subsystem tests
+are represented by compound outcomes
+14 and 15 in subsystem engineering in
+Figure 8.3.
+For system refinement, the team planned
+to have the entire drill system tested in
+Utah. They also planned to have the entire
+drill system tested in Tanzania. These tests
+are compound outcomes 5 and 10 in
+system refinement in Figure 8.3.
+Step 4 (example): Choose design
+activities that lead to the outcomes for
+the human powered drill
+For each outcome, one or more design
+activities is chosen to lead to the outcome.
+For the outcomes listed in Step 3, the team
+decides to do the following:
+For the opportunity development stage: (i)
+interview the client (WHOlives.org), (ii) craft
+and revise the project objective statement,
+(iii) interview well drillers, (iv) do internet
+research, (v) benchmark competitive
+products, and (vi)
+discuss/brainstorm/establish product
+expectations based on interviews, internet,
+and benchmarking data.
+For the concept development stage: (i)
+create and test a low-fidelity prototype to
+predict user fatigue, (ii) create and test a
+low-fidelity ergonomics prototype, (iii)
+create a simple test to measure rate of dirt
+removal and run the test, (iv) create and
+test a chip settling prototype, (v) create a
+predictive measure of mechanical
+advantage, (vi) develop a predictive model
+of required pump horse power, and (vii)
+create a preliminary cost model. These
+activities are shown a B–H, respectively, in
+Figure 8.3.
+For the subsystem engineering stage: (i)
+test each subsystem under harsh
+conditions to expose weakness, (ii) refine
+each subsystem to strengthen weaknesses
+identified during tests, and (iii) retest each
+subsystem to prove it has been
+strengthened.
+For the system refinement stage: (i) test the
+entire integrated system in Utah, and (ii)
+test the entire integrated system in
+Tanzania.
+150 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+Table 8.2: Specific end-of-stage outcomes for human powered drill.
+Opportunity Development:
+Requirements (required content at the end of stage):
+Market requirements, performance measures, requirement-measure relationships, and ideal values (sections A-D) of the human powered Tests (required content):
+None
+Design (required content):
+None
+Validation for approval:
+Do the ideal values seem reasonable to WHOlives.org (for better or for worse, WHOlives.org was chosen as the market
+representative for the human powered drill project)? Does WHOlives.org know of any missing performance measures
+or market requirements that are not captured in the requirements matrix? Does WHOlives.org believe the importance
+values are correct?
+Concept Development:
+Requirements (required content at the end of stage):
+Target values for the drill performance in the system-level requirements matrix. Sections A-D and target values for
+subsystem requirements matrices.
+Tests (required content):
+Modeling methods used to predict performance of the drill concept and test methods for prototypes used to measure
+performance of the drill concept.
+Design (required content):
+Overall concept for the drill. Decomposition of drill into subsystems. Interfaces between subsystems.
+Validation for approval:
+Predicted and measured performance of the drill concept is consistent with the established target values. WHOlives.org
+is happy with the concept as expressed in the prototypes and sketches.
+Subsystem Engineering:
+Requirements (required content at the end of stage):
+Predicted and measured performance values in the drill’s subsystems requirements matrices. Predicted performance
+values of the drill in the system-level requirements matrix.
+Tests (required content):
+Updated methods used to predict and measure the drill and subsystem performance.
+Design (required content):
+Design for each of the drill’s subsystems. This will include a bill of materials, engineering drawings of custom parts,
+purchasing specifications for off the shelf parts, system assembly instructions, piping diagram for cutting fluid.
+Validation for approval:
+Does the measured performance meet or exceed the target performance? It it within the acceptable limits? Where
+possible WHOlives.org will critique prototypes and performance data resulting from this stage.
+System Refinement:
+Requirements (required content at the end of stage):
+Measured drill performance values in the requirements matrix. Refinements to predicted and measured performance
+values for the drill’s subsystems in the subsystem matrices.
+Tests (required content):
+Updated methods used to predict and measure the drill and subsystem performance.
+Design (required content):
+Refined design for the entire drill.
+Validation for approval:
+Does the measured performance meet or exceed the target performance? Does WHOlives.org and other market representatives
+in Tanzania find the product desirable?
+8.4. HUMAN POWERED DRILL EXAMPLE 151
+CONCEPT
+I
+II
+III
+IV
+Figure 8.3: Customized activity map for human powered drill, reflecting specific intermediate design outcomes for the drill.
+152 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+Once chosen, each of these activities can
+be represented in the design activity map.
+For readability (based on the constraints of
+a physical book layout), we show this for
+only the opportunity development stage.
+The activity map is shown in Figure 8.4,
+along with the resource allocation from
+Step 5.
+Step 5 (example): Allocate resources to
+each design activity for the human
+powered drill
+For each chosen activity in the activity
+map, resources are allocated to its
+completion. This includes human,
+financial, and temporal resources.
+Figure 8.4 shows the result of this step for
+the opportunity development stage. Notice
+that stage completion date from Table 8.1
+has been included in the figure. This is to
+facilitate Step 6.
+Step 6 (example): Add time estimates
+and extract the project schedule for the
+human powered drill
+A project schedule for the entire project
+can be extracted once resources have been
+allocated to all the activities in the activity
+map. Critical path analysis (see the
+Development Reference) can be used to do
+this. For the activity map shown in
+Figure 8.4, the critical path analysis
+indicates that all activities except interview
+well drillers are on the critical path. This
+means that (based on the allocated time
+resources) no activity, except interview well
+drillers, can be delayed without
+consequently delaying the 30 September
+2010 milestone. The extracted schedule is
+shown in Table 8.3.
+Discussion
+Various observations can be made about
+this example that may help you as you
+create a custom project plan for the first
+time.
+• The resulting plan is unique to the
+project. Figure 8.3 reflects specific
+outcomes and activities that apply only
+to the drill. Also Figure 8.3 conveys
+the fact that the human powered drill
+project only covered the first four
+stages of development.
+• The plan evolves as more information
+is gained. In this example, we chose to
+describe the custom plan as it existed
+very early on for the team — at the
+onset of the product development
+process. As a result, the plan is
+somewhat specific but still very
+generic. The plan will evolve as the
+requirements, tests, and the design
+evolves. As a result, it’s OK that the
+plan be a detailed plan in the near
+future, and a less detailed plan in the
+distant future.
+• There are various acceptable plans.
+Numerous plans could have been
+created to achieve the outcomes. Any
+alternative choice for the intermediate
+design outcomes, the activity, the
+estimated duration, the finances
+allocated, or the person assigned to
+lead the activity would constitute a
+different plan. Various acceptable
+plans can result from the flexibility
+available.
+• There are many unacceptable plans.
+While there are various acceptable
+plans, we must also recognize that
+there are many unacceptable plans
+that will not lead to meeting the design
+outcomes. For example, choosing to
+interview the client for the first time
+only after the performance
+expectations have been
+discussed/brainstormed/established
+by the team would be a mistake since
+the performance expectations need to
+reflect the expectations of the client
+and other stakeholders.
+• The best plan will have the following
+characteristics. It will:
+– Produce the desired outcomes
+while simultaneously meeting the
+desired budget and milestone
+goals.
+– Make the best use of product
+development resources (human,
+financial, and temporal).
+Figure 8.4: Resource allocation to the human powered drill project (opportunity development stage only)
+Activity Scheduled
+Start Date
+Required
+Completion Date
+A. Interview WHOlives.org 01 Sep 2010 03 Sep 2010
+B. Craft and revise project objective statement 07 Sep 2010 13 Sep 2010
+C. Interview well drillers 14 Sep 2010 20 Sep 2010
+D. Do internet research 14 Sep 2010 20 Sep 2010
+E. Benchmark competitive products 14 Sep 2010 20 Sep 2010
+F. Discuss/brainstorm/establish product expectations 21 Sep 2010 29 Sep 2010
+Table 8.3: Development
+schedule for the humanpowered
+drill (opportunity
+development stage only).
+– Facilitate a common
+understanding (among team
+members) of specific design
+activities, their outcomes and
+relationships.
+– Be detailed enough to guide the
+product development process,
+yet flexible enough to allow
+individuals to apply their
+individual strengths to the
+project.
+8.5 Summary
+Every project needs its own custom product
+development plan. The team’s opportunity
+to construct that plan in such a way that
+maximizes efficiency and effectiveness
+means that the product development
+process itself is one of the greatest
+variables at their disposal.
+Six steps can be followed to develop a
+custom plan for any specific project. Those
+steps are (1) establish the project scope,
+(2) articulate specific end-of-stage
+outcomes, (3) identify specific intermediate
+design outcomes, (4) choose design
+activities that lead to the outcomes, (5)
+allocate resources to the each design
+activity, and (6) add time estimates and
+extract the project schedule.
+Project plans needs to be made and
+managed. Project plans must have an
+appropriate level of detail, have realistic
+154 CHAPTER 8. CUSTOMIZING THE PRODUCT DEVELOPMENT PROCESS
+timeframes, have realistic costs, have
+appropriate approvals to minimize risk,
+capitalize on the strengths of the team, and
+be useful for managing the work on the
+project.
+Key risks of project planning include
+avoiding planning, perpetual planning,
+ignoring the plan, making planning (rather
+than evolving the product) the goal, and
+making pretend plans and statuses.
+8.6 Exercises
+Test your knowledge
+T8-1 List the steps in the process for
+customizing the project plan.
+T8-2 List six questions that can be asked
+to evaluate the quality of a
+customized project plan.
+T8-3 List five potential pitfalls in project
+planning and management.
+T8-4 List the three major elements of a
+project plan that may need to be
+adjusted when unforeseen difficulties
+arise.
+Apply your understanding
+A8-1 Give an example of a project where
+you underestimated the time
+required for completion. What is the
+approximate ratio of the actual time
+to the estimated time.
+a) What criteria would you expect
+to use when assigning human
+resources to particular design
+activities?
+b) What criteria would you expect
+to use when assigning financial
+resources to particular design
+activities?
+c) In general, how do you expect
+to know when a design activity
+is complete?
+A8-2 Consider a development project you
+are working on now.
+a) What stages of development
+does your project cover?
+b) What stage of development is it
+currently in?
+c) What is the next development
+milestone?
+d) How much time and money do
+you expect it will take to
+advance the design to the next
+milestone? Do you have enough
+time and money available to
+reach the milestone?
+A8-3 Describe the difference between a
+customized product development
+process and a customized product
+development plan.
+A8-4 The order of steps 4-6 of the process
+for customizing a product
+development plan is interchangeable.
+How would your thinking differ if you
+completed these steps in the order
+6-5-4 instead of 4-5-6?
+A8-5 Using the critical path method, find
+the critical path for the activity map
+shown in Figure 8.2.
