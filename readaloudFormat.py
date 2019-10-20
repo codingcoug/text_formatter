@@ -1,7 +1,8 @@
 def main():
 	
+	txt = raw_input("Enter the desired ouput filename with .txt at the end: ")
 	f = open("readaloud.txt","r+")
-	w = open("textoutput.txt","w+")
+	w = open(txt,"w+")
 	lines = f.read()
 	w.write(lines.replace('\n', ' '))	
 	f.close()
